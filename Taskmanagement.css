@@ -1,0 +1,39 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  text-align: center;
+}
+
+#auth-section {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+form {
+  display: inline-block;
+  margin: 10px;
+}
+
+input {
+  margin: 5px;
+}
+
+button {
+  padding: 10px 20px;
+}
+
+#tasks-section {
+  margin: 20px;
+}
+
+#task-list {
+  list-style-type: none;
+}
+
+#task-list li {
+  margin: 10px 0;
+}
